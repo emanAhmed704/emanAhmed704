@@ -24,7 +24,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 * 💻 Studied **C++** and Object-Oriented Programming
 * 🐍 Learning and practicing **Python**
 * 🌱 Continuously improving my programming and problem-solving skills
-* 🎓 Computer Science student / graduate
+* 🎓 Computer Science student 
 * 🔨 Currently building and learning through Flutter projects
 
 ---
@@ -40,7 +40,6 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 
 ### 🌐 Web Technologies
 
@@ -96,7 +95,6 @@ I’m mainly focused on **Flutter mobile application development** using Dart.
 I'm interested in:
 
 * 📱 Mobile Application Development
-* 🎨 UI Development
 * 🔥 Firebase
 * 🗄️ Local Databases
 * 🧩 Object-Oriented Programming
