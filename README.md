@@ -7,7 +7,7 @@
 I’m a Flutter developer passionate about building mobile applications with **Flutter & Dart**.
 I enjoy learning new technologies, solving programming problems, and turning ideas into useful applications.
 
-<img src="https://raw.githubusercontent.com/emanAhmed704/emanAhmed704/main/image.png" alt="Eman" width="60%"/> <br>
+<img src="https://raw.githubusercontent.com/emanAhmed704/emanAhmed704/main/image.png" alt="Eman" width="50%"/> <br>
 <details>
 <p>
 <strong>
