@@ -11,63 +11,64 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=emanAhmed704\&style=flat\&color=blue\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=emanAhmed704&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
+<hr>
+
+## 👩‍💻 About Me
+
+- 📱 Flutter Mobile Application Developer
+- 💙 Passionate about **Flutter & Dart**
+- 💻 Studied **C++** and Object-Oriented Programming
+- 🐍 Learning and practicing **Python**
+- 🌱 Continuously improving my programming and problem-solving skills
+- 🎓 Computer Science student
+- 🔨 Currently building and learning through Flutter projects
+- 🚀 Interested in building useful and user-friendly mobile applications
+
 ---
 
-## 🚀 About Me
-
-* 📱 Flutter Mobile Application Developer
-* 💙 Passionate about **Flutter & Dart**
-* 💻 Studied **C++** and Object-Oriented Programming
-* 🐍 Learning and practicing **Python**
-* 🌱 Continuously improving my programming and problem-solving skills
-* 🎓 Computer Science student
-* 🔨 Currently building and learning through Flutter projects
-
----
-
-## 🛠️ Technologies & Tools
+## 🛠️ Tools & Technologies I Use
 
 ### 📱 Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ### 💻 Programming Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 🌐 Web Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 🗄️ Database & Backend
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
-### 🔧 Tools
+### 🔧 Development Tools
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 💻 Programming
+## 💻 A Little About Me
 
 ```dart
 class EmanAhmed {
   final String role = "Flutter Mobile Application Developer";
 
-  final List<String> languages = [
+  final List<String> programmingLanguages = [
     "Dart",
     "C++",
     "Python",
@@ -82,90 +83,13 @@ class EmanAhmed {
     "GitHub",
   ];
 
+  final List<String> interests = [
+    "Mobile Application Development",
+    "Problem Solving",
+    "Object-Oriented Programming",
+    "Learning New Technologies",
+  ];
+
   final String goal =
       "Build useful mobile applications and keep learning.";
 }
-```
-
----
-
-## 📱 Flutter
-
-I’m mainly focused on **Flutter mobile application development** using Dart.
-
-I'm interested in:
-
-* 📱 Mobile Application Development
-* 🔥 Firebase
-* 🗄️ Local Databases
-* 🧩 Object-Oriented Programming
-* 🧠 Problem Solving
-* 📦 Building real-world Flutter projects
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=emanAhmed704&show_icons=true&theme=tokyonight" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanAhmed704&layout=compact&theme=tokyonight" width="40%"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=emanAhmed704&theme=tokyonight" width="70%"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```text
-Flutter
-   ↓
-Dart
-   ↓
-Firebase
-   ↓
-Clean Code
-   ↓
-Problem Solving
-   ↓
-Building Real-World Applications
-```
-
----
-
-## 💡 My Goal
-
-> To become a professional Flutter Mobile Application Developer and build applications that solve real problems.
-
----
-
-## 📂 My Projects
-
-Here you can find my projects and programming practice:
-
-* 📱 Flutter Mobile Applications
-* 💻 C++ Projects
-* 🐍 Python Projects
-* 🌐 HTML & CSS Projects
-* 🧠 Programming & Problem-Solving Practice
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting my profile! ✨
-
-💙 Flutter | Dart | C++ | Python | Git | GitHub
-
-</div>
