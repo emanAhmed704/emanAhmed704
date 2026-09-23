@@ -9,9 +9,9 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
 
-<br>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&style=flat\&color=blue\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=emanAhmed704\&style=flat\&color=blue\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -24,7 +24,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 * 💻 Studied **C++** and Object-Oriented Programming
 * 🐍 Learning and practicing **Python**
 * 🌱 Continuously improving my programming and problem-solving skills
-* 🎓 Computer Science student 
+* 🎓 Computer Science student
 * 🔨 Currently building and learning through Flutter projects
 
 ---
@@ -40,6 +40,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
 
 ### 🌐 Web Technologies
 
@@ -107,9 +108,9 @@ I'm interested in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emanAhmed704&show_icons=true&theme=tokyonight" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanAhmed704&layout=compact&theme=tokyonight" width="40%"/>
 
 </div>
 
@@ -119,7 +120,7 @@ I'm interested in:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=emanAhmed704&theme=tokyonight" width="70%"/>
 
 </div>
 
@@ -149,31 +150,22 @@ Building Real-World Applications
 
 ---
 
+## 📂 My Projects
+
+Here you can find my projects and programming practice:
+
+* 📱 Flutter Mobile Applications
+* 💻 C++ Projects
+* 🐍 Python Projects
+* 🌐 HTML & CSS Projects
+* 🧠 Programming & Problem-Solving Practice
+
+---
+
 <div align="center">
 
 ### ✨ Thanks for visiting my profile! ✨
 
-💙 Flutter | Dart | C++ | Python
+💙 Flutter | Dart | C++ | Python | Git | GitHub
 
 </div>
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
-</div>
-
-
-
-<!--
-**emanAhmed704/emanAhmed704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
