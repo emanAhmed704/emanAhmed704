@@ -1,5 +1,12 @@
 <div align="center">
 
+# 👋 Hello, I'm Eman Ahmed
+
+### 📱 Flutter Mobile Application Developer
+
+I’m a Flutter developer passionate about building mobile applications with **Flutter & Dart**.
+I enjoy learning new technologies, solving programming problems, and turning ideas into useful applications.
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
