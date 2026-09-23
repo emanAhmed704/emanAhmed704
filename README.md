@@ -8,9 +8,6 @@ I’m a Flutter developer passionate about building mobile applications with **F
 I enjoy learning new technologies, solving programming problems, and turning ideas into useful applications.
 
 <img src="https://raw.githubusercontent.com/emanAhmed704/emanAhmed704/main/image.png" alt="Eman" width="60%"/> <br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
-
 <details>
 <p>
 <strong>
