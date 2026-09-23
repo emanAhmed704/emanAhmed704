@@ -59,7 +59,6 @@ class EmanAhmed {
       "Dart",
       "C++",
       "Python",
-      "JavaScript"
     },
 
     "MobileDevelopment" : {
